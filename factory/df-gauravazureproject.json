@@ -1,0 +1,15 @@
+{
+	"name": "df-gauravazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "350c5fa0-d830-4da1-9252-b44f674e7a40",
+		"tenantId": "eeb6e72e-6c19-4424-abbf-61b5c6de33ee"
+	}
+}
